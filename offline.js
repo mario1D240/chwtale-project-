@@ -1,6 +1,7 @@
 ﻿{
 	"version": 1619669341,
 	"fileList": [
+		"sw.js",
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
